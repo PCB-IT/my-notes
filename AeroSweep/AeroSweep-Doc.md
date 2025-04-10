@@ -43,7 +43,7 @@ Due to budgeting these values must be at an optimal value. We need to optimize $
 ### **Design Targets**
 The goal is to produce an equivalent drone to the average human capacity. According to research from Gemini with the following prompt:
 
-> [!Gemini Prompt]
+> [!NOTE]
 > I am trying to find research that indicates how much waste one person cleans in littered areas on average. Conversation [here](https://g.co/gemini/share/4cbd070eca62).
 
 We get the following research based off 40+ websites.
