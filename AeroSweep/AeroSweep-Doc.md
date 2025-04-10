@@ -74,7 +74,7 @@ $$
 \text{time}=\frac{3\text{kg}}{25\text{g/min}}=\text{120 min}
 $$
 
-> [!Design Targets]
+> [!NOTES]
 > - Operational time: 120 min
 > - Cleaning speed: 25g/min
 > - Max load mass: 250g
