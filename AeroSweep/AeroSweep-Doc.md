@@ -1,4 +1,4 @@
-![[image-31.png]]
+![image-31](../Images/image-31.png)
 # Introduction
 The world, including South Africa, has long struggled with litter. As manufacturing has grown, so has the tendency for people to dispose of waste carelessly, often dumping it wherever they please. To maintain the beauty of our cities, it's important that we address this issue and find ways to preserve their aesthetic appeal.
 
@@ -18,7 +18,7 @@ One potential solution is an automated system that can collect and dispose of wa
 # Proposed Solution
 The proposed solution is to use a quadcopter, a type of drone that is well-suited for spacious environments. Quadcopters can move freely and are not limited by terrain.
 
-![[image-33.png|444x298]]
+![image-33|402x270](../Images/image-33.png)
 
 > [!NOTE]
 > While this project needs to be practical and optimal to solve the problem, the entire design will be done from scratch for experience and fun.
