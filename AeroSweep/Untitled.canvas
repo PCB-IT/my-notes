@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"8e583cdd6708c601","x":-125,"y":-30,"width":250,"height":60,"color":"1","type":"text","text":"<center>Systems</center>"},
+		{"id":"76b5ecefa8f67d85","x":-125,"y":200,"width":250,"height":160,"color":"5","type":"text","text":"Flight Controller\n- Controls the motors\n- Moves to a targer position"},
+		{"id":"ad15c671463bb80f","x":-540,"y":-30,"width":250,"height":60,"color":"2","type":"text","text":"**Pickup Mechanism**"},
+		{"id":"30a5e7b4e0681179","x":-540,"y":-280,"width":250,"height":60,"color":"6","type":"text","text":"VLA Model"},
+		{"id":"b6b228336dd10f9a","x":-125,"y":-280,"width":250,"height":60,"color":"6","type":"text","text":"Litter Identification"}
+	],
+	"edges":[
+		{"id":"0a33b89b9e515f74","fromNode":"8e583cdd6708c601","fromSide":"bottom","toNode":"76b5ecefa8f67d85","toSide":"top"},
+		{"id":"0c1f42e86543e0bd","fromNode":"30a5e7b4e0681179","fromSide":"bottom","toNode":"ad15c671463bb80f","toSide":"top"},
+		{"id":"0ad19ebb5e4a232b","fromNode":"8e583cdd6708c601","fromSide":"left","toNode":"ad15c671463bb80f","toSide":"right"},
+		{"id":"71cf7f11e4ecf7fb","fromNode":"b6b228336dd10f9a","fromSide":"left","toNode":"30a5e7b4e0681179","toSide":"right"},
+		{"id":"c31899a38de11b6c","fromNode":"8e583cdd6708c601","fromSide":"top","toNode":"b6b228336dd10f9a","toSide":"bottom"}
+	]
+}
